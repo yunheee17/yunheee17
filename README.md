@@ -12,7 +12,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/@yunheee17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@yunheee17" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/muhammad hidayatullah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammad hidayatullah" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/muhammad-hidayatullah-45638a262/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammad hidayatullah" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/yunhe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="yunhe" height="30" width="40" /></a>
 <a href="https://instagram.com/yunhee.de.ville" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yunhee.de.ville" height="30" width="40" /></a>
 </p>
