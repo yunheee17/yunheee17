@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Muhammad Hidayatullah</h1>
 <h3 align="center">A passionate IT Security from Indonesia</h3>
 
+<img align="right" alt="coding" width="400" src="https://raw.githubusercontent.com/gist/zeysert/bc8c0a4090c377a755dcc77bbeac66e4/raw/43f9b12677934c5d99499f6d9d574d30c86f979c/coding.gif">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yunheee17&label=Profile%20views&color=0e75b6&style=flat" alt="yunheee17" /> </p>
 
 - 🔭 I’m currently studying on **Universitas Lambung Mangkurat**
@@ -13,7 +15,7 @@
 <p align="left">
 <a href="https://twitter.com/@yunheee17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@yunheee17" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/muhammad-hidayatullah-45638a262/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammad hidayatullah" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/yunhe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="yunhe" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/21046912/yunhe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="yunhe" height="30" width="40" /></a>
 <a href="https://instagram.com/yunhee.de.ville" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yunhee.de.ville" height="30" width="40" /></a>
 </p>
 
