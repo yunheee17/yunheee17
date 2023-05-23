@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Muhammad Hidayatullah</h1>
-<h3 align="center">I am an Information Technology Student</h3>
+<h3 align="center">I'm an Information Technology Student</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yunheee17&label=Profile%20views&color=0e75b6&style=flat" alt="yunheee17" /> </p>
 
